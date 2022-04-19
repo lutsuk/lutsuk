@@ -3,3 +3,4 @@
 - Project_1 - cohorts + RFM
 - Project_2 - A/B test (t-test)
 - Anova
+- Mhitney-U-test
