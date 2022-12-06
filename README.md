@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Lutsuk Anastasiia
 - This is my portfolio
-- Project_1 - cohorts + RFM
+- Project_1 - RFM
 - Project_2 - A/B test (t-test)
-- Anova
-- Mhitney-U-test
